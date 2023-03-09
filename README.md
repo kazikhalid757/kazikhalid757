@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img length="500" width="400" src="https://user-images.githubusercontent.com/113050909/223906486-c592f30f-ee8d-4f09-a2b1-16915050298b.gif" alt="kazikhalid757"/> ,
-<img align="right" alt="Coding" length="1000" width="330" src="https://user-images.githubusercontent.com/113050909/223910989-478fdc13-d3ad-46cd-bbf2-832040b2dbe4.gif" alt="kazikhalid757" /> </p>
+<img align="right" alt="Coding" length="1000" width="310" src="https://user-images.githubusercontent.com/113050909/223910989-478fdc13-d3ad-46cd-bbf2-832040b2dbe4.gif" alt="kazikhalid757" /> </p>
 
 
 <p ><img align="right" alt="Coding" width="280"src="https://user-images.githubusercontent.com/113050909/223908136-0c5f71b8-3e7f-4a8b-978b-261b26ba1753.gif"> </p>
