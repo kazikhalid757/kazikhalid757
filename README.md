@@ -3,9 +3,9 @@
 
 
 
-<p align="left"> <img src="![rt](https://user-images.githubusercontent.com/113050909/223906486-c592f30f-ee8d-4f09-a2b1-16915050298b.gif)" alt="kazikhalid757" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/113050909/223906486-c592f30f-ee8d-4f09-a2b1-16915050298b.gif)" alt="kazikhalid757" /> </p>
 
-<p align="right"> <a href="![Accounting-book-keeping](https://user-images.githubusercontent.com/113050909/223906346-dbfe3d6a-f168-4972-a55e-8342a8d0f207.gif)" alt="kazikhalid757" /></a> </p>
+<p align="right"> <a href="https://user-images.githubusercontent.com/113050909/223906346-dbfe3d6a-f168-4972-a55e-8342a8d0f207.gif)" alt="kazikhalid757" /></a> </p>
 
 
 
