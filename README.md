@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kazi Khalid Hasan Tamim</h1>
 <h3 align="center">I want to be a Data Scientist.</h3>
 
+![Accounting-book-keeping](https://user-images.githubusercontent.com/113050909/223906346-dbfe3d6a-f168-4972-a55e-8342a8d0f207.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazikhalid757&label=Profile%20views&color=0e75b6&style=flat" alt="kazikhalid757" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazikhalid757" alt="kazikhalid757" /></a> </p>
