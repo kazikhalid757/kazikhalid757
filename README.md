@@ -3,16 +3,19 @@
 
 
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/113050909/223906486-c592f30f-ee8d-4f09-a2b1-16915050298b.gif" alt="kazikhalid757"/> </p> 
-<p align="right"> <img src="https://user-images.githubusercontent.com/113050909/223908136-0c5f71b8-3e7f-4a8b-978b-261b26ba1753.gif" alt="kazikhalid757" /> </p>
+<p align="left"> <img length="500" width="480" src="https://user-images.githubusercontent.com/113050909/223906486-c592f30f-ee8d-4f09-a2b1-16915050298b.gif" alt="kazikhalid757"/> ,
+<img align="right" alt="Coding" length="5000" width="380" src="https://user-images.githubusercontent.com/113050909/223910989-478fdc13-d3ad-46cd-bbf2-832040b2dbe4.gif" alt="kazikhalid757" /> </p>
 
+
+<p ><img align="right" alt="Coding" width="300"src="https://user-images.githubusercontent.com/113050909/223908136-0c5f71b8-3e7f-4a8b-978b-261b26ba1753.gif"> </p>
+ 
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazikhalid757&label=Profile%20views&color=0e75b6&style=flat" alt="kazikhalid757" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazikhalid757" alt="kazikhalid757" /></a> </p>
+
 
 - 🌱 I’m currently learning **Google Data Analytics Professional Certificate**
 
