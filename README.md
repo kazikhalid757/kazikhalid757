@@ -3,8 +3,8 @@
 
 
 
-<p align="left"> <img length="500" width="480" src="https://user-images.githubusercontent.com/113050909/223906486-c592f30f-ee8d-4f09-a2b1-16915050298b.gif" alt="kazikhalid757"/> ,
-<img align="right" alt="Coding" length="5000" width="380" src="https://user-images.githubusercontent.com/113050909/223910989-478fdc13-d3ad-46cd-bbf2-832040b2dbe4.gif" alt="kazikhalid757" /> </p>
+<p align="left"> <img length="500" width="400" src="https://user-images.githubusercontent.com/113050909/223906486-c592f30f-ee8d-4f09-a2b1-16915050298b.gif" alt="kazikhalid757"/> ,
+<img align="right" alt="Coding" length="2000" width="380" src="https://user-images.githubusercontent.com/113050909/223910989-478fdc13-d3ad-46cd-bbf2-832040b2dbe4.gif" alt="kazikhalid757" /> </p>
 
 
 <p ><img align="right" alt="Coding" width="300"src="https://user-images.githubusercontent.com/113050909/223908136-0c5f71b8-3e7f-4a8b-978b-261b26ba1753.gif"> </p>
