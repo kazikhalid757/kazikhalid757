@@ -7,7 +7,7 @@
 
 <p ><img align="right" alt="Coding" width="280"src="https://user-images.githubusercontent.com/113050909/223908136-0c5f71b8-3e7f-4a8b-978b-261b26ba1753.gif"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazikhalid757&label=Profile%20views&color=0e75b6&style=flat" alt="kazikhalid757" /> </p>
+
 
 - 🌱 I’m currently learning **DevOps**
 
