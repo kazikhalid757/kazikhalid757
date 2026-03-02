@@ -11,11 +11,11 @@
 ### 👨‍💻 About Me
 
 - 🧪 **QA & Test Automation Engineer**
-- 🛠️ **Experience:** 1.5+ years specializing in Web, Mobile, and API automation.
+- 🛠️ **Experience:** 1.5+ years specializing in Web, Mobile, and API manual & automation testing.
 - 🚀 Passionate about improving software quality and finding critical issues early
-- 🔐 Focused on **Security Testing & API Security**
+- 🔐 Focused on **Sanaty, Functional, Regression, Security Testing & API Security**
 - 📚 Continuously learning **OWASP Top 10 & API Security best practices**
-- 🛡️ **Security:** Currently developing **TokenTwin**, an automated API security testing tool.
+- 🛡️ **Security:** Currently developing **RoleRival**, an automated API security testing tool.
 
 
   </td>
@@ -55,7 +55,7 @@
 
 ### 🌟 Featured Projects
 
-- **[TokenTwin](https://github.com/kazikhalid757)**: A security testing tool designed to identify OWASP Top 10 vulnerabilities in APIs.
+- **[RoleRival]([https://github.com/kazikhalid757](https://github.com/kazikhalid757/RoleRival.git))**: A security testing tool designed to identify OWASP Top 10 vulnerabilities in APIs.
 
 
 
