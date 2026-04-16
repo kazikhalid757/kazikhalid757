@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🧪 **QA & Test Automation Engineer**
-- 🛠️ **Experience:** 1.5+ years specializing in Web, Mobile, and API manual & automation testing.
+- 🛠️ **Experience:** 2+ years specializing in Web, Mobile, and API manual & automation testing.
 - 🚀 Passionate about improving software quality and finding critical issues early
 - 🔐 Focused on **Sanaty, Functional, Regression, Security Testing & API Security**
 - 📚 Continuously learning **OWASP Top 10 & API Security best practices**
